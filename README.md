@@ -1,5 +1,5 @@
 # 📊 Customer Churn Analysis using Power BI
-
+<img width="1064" height="443" alt="SEG_BlogHeader_CustomerChurnAnalysis" src="https://github.com/user-attachments/assets/eed91ddd-eca4-415a-8033-2e9d5f24c4e9" />
 ## 📌 Project Overview
 
 This project presents an interactive **Customer Churn Analysis Dashboard** built using **Microsoft Power BI**. The goal is to analyze customer churn behavior, identify key drivers of churn, and provide actionable insights to help reduce customer attrition.
@@ -64,6 +64,7 @@ A detailed risk analysis view including:
 | Excel / CSV | Source data |
 
 ---
+<img width="1000" height="566" alt="churn-analysis-pages" src="https://github.com/user-attachments/assets/8abdcd88-7e2c-412b-aa64-9dc89f8e3796" />
 
 ## 📂 Project Structure
 
